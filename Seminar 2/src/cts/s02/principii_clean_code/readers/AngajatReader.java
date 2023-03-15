@@ -18,6 +18,7 @@ public class AngajatReader extends AplicantReader {
         input2.useDelimiter(",");
         List<Aplicant> aplicants = new ArrayList<Aplicant>();
 
+
         while (input2.hasNext()) {
             Angajat angajat = new Angajat();
             super.readAplicant(input2, angajat);

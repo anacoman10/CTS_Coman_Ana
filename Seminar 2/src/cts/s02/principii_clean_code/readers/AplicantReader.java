@@ -19,6 +19,7 @@ public abstract class AplicantReader {
         for (int i = 0; i < numarProiecte; i++)
             proiecte[i] = scanner.next();
 
+
         aplicant.setNume(nume);
         aplicant.setPrenume(prenume);
         aplicant.setVarsta(varsta);

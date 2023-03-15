@@ -18,6 +18,7 @@ public class ElevReader extends AplicantReader {
         input2.useDelimiter(",|\n");
         List<Aplicant> aplicants = new ArrayList<>();
 
+
         while (input2.hasNext()) {
             Elev elev = new Elev();
             super.readAplicant(input2, elev);

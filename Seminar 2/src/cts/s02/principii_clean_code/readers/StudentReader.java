@@ -17,6 +17,7 @@ public class StudentReader extends AplicantReader {
         input.useDelimiter(",|\n");
         List<Aplicant> aplicants = new ArrayList<Aplicant>();
 
+
         while (input.hasNext()) {
             Student student = new Student();
 
