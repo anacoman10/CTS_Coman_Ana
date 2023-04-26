@@ -6,5 +6,6 @@
 | Seminar 4|Creationale |Introducere in desgin patterns - Singleton si Singleton Registry |
 | Seminar 5| Creationale|Simple Factory si Factory Method |
 | Seminar 6| Creationale|Builder si Prototype|
-| Seminar 8| Structurale|Design pa Adapter de clase, obiecte si Proxy |
+| Seminar 8| Structurale|Adapter de clase, obiecte si Proxy |
 | Seminar 9| Structurale|Facade si Decorator |
+
