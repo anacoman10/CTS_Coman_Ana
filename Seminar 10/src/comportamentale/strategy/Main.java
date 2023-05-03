@@ -9,5 +9,6 @@ public class Main {
         operator.setModVerificare(new VerificaPJ());
         operator.verificaClient();
 
+
     }
 }
