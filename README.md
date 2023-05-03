@@ -8,4 +8,4 @@
 | Seminar 6| Creationale|Builder si Prototype|
 | Seminar 8| Structurale|Adapter de clase, obiecte si Proxy |
 | Seminar 9| Structurale|Facade si Decorator |
-
+| Seminar 10| Structurale si Comportamentale| Composite si Flyweight si Strategy|
