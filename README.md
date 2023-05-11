@@ -10,3 +10,4 @@
 | Seminar 9| Structurale|Facade si Decorator |
 | Seminar 10| Structurale si Comportamentale| Composite si Flyweight si Strategy|
 | Seminar 11| Comportamentale| Observer si State si Template Method |
+| Seminar 12| Comportamentale| Command |
